@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/range-sum-query-immutable/solutions/5525857/303-range-sum-query-immutable-python-3-solution-please-upvote/
+# https://leetcode.com/problems/range-sum-query-immutable/description/
 
 '''
 Given an integer array nums, handle multiple queries of the following type:
